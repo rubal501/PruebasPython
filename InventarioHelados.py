@@ -7,4 +7,4 @@ sabores = sab.readlines()
 inv = {}
 for i in range(len(postres)):
 	inv[postres[i]] = sabores[i]
-	
+print inv
